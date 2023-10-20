@@ -4,34 +4,35 @@
 [![GitHub Pio_Lavorgna](https://img.shields.io/github/followers/PioLavorgna?label=follow&style=social)](https://github.com/PioLavorgna)
 
 ## 🌎 Project
-Con questo progetto potete gestire la selezione casuale di una lista di nomi per vari scopi,
-come decidere chi parla per primo in una discussione o qualsiasi altra situazione in cui la casualità è richiesta.
-Basta fornire la lista dei nomi e la pagina farà il resto
+With this project, you can manage the random selection of a list of names for various purposes, 
+such as deciding who speaks first in a discussion or any other situation where randomness is required. 
+Just provide the list of names, and the page will take care of the rest.
 
 ## 🎲 Random-peolple & Win 🐳 White Wale
 
-La nascita di questa soluzione è una storia di ispirazione e crescita. 
-Originariamente sviluppata per agevolare le discussioni durante le riunioni aziendali, 
-ha avuto un impatto straordinario con i colleghi con i quali ho lavorato.
-Ha aperto le porte a chiunque, indipendentemente dalla sua esperienza iniziale, permettendo loro di parlare, 
-discutere e superare gradualmente la timidezza e i propri limiti.
+The birth of this solution is a story of inspiration and growth. 
+Originally developed to facilitate discussions during business meetings, 
+it had an extraordinary impact on the colleagues I worked with. 
+It opened the doors to anyone, regardless of their initial experience, 
+allowing them to speak, discuss, and gradually overcome shyness and their own limitations.
 
-Questa idea non è nata solo dalla passione per l'informatica, ma anche dalla natura stessa. 
-È un tributo alla bellezza e alla forza delle balene bianche, 
-creature maestose che simboleggiano la forza nascosta in ognuno di noi. 
-La storia di queste balene bianche ha fornito l'ispirazione per trasmettere un forte messaggio 
-a coloro che inizialmente erano inesperti: il loro potenziale è tanto vasto quanto l'oceano.
+This idea didn't spring solely from a passion for computer science, 
+but also from nature itself. 
+It's a tribute to the beauty and strength of the white whales, 
+majestic creatures symbolizing the hidden power within each of us. 
+The story of these white whales has provided inspiration 
+to convey a powerful message to those who were initially inexperienced: their potential is as vast as the ocean.
 
 ## 🖥️ Come usarlo
 [![Link diretto: random-people](https://img.shields.io/badge/-Link_diretto_Random_People-blue?style=flat-square&logo=Netlify&logoColor=white&link=https://random-people-by-pio-lavorgna.netlify.app)](https://random-people-by-pio-lavorgna.netlify.app)
 	
-	- Nella casella Name inserire il nome da aggiungere alla lista
-	- Cliccare il bottone [INSERT] o premere [invio]
-	- Una volta pronta la lista di nomi preme sul tasto verde sopra la lista
-	- Sulla destra premere [START SELECT] per avviare il tutto
-	- Per bloccare la selezione premere [STOP SELECT]
-	- Per aggiungere nuovi nomi premere il tasto rosso
-	- Per rimuovere un nome pre sull'icona affianco al nome ( cecstino con la x )
+	- In the "Name" box, enter the name to add to the list
+	- Click the [INSERT] button or press [Enter]
+	- Once the list of names is ready, click the green button above the list
+	- On the right, press [START SELECT] to begin the process
+	- To stop the selection, press [STOP SELECT]
+	- To add new names, press the red button
+	- To remove a name, click the icon next to the name (trash can with an "x")
 
 ## 🔧 Tech stack:
 	
@@ -41,8 +42,7 @@ a coloro che inizialmente erano inesperti: il loro potenziale è tanto vasto qua
 
 ## 💚 Dedicato al Team White Wale 🐳
 
-Un gruppo di individui determinati a esplorare le profondità dell'informatica, 
-superare le sfide e raggiungere traguardi eccezionali. 
+A group of people determined to explore the depths of computer science, overcome challenges, and achieve exceptional milestones.
 
 ## 🐳 Team White Wale 🐳
 	
