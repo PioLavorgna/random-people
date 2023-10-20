@@ -4,9 +4,9 @@ class indexClass{
         this.map_peoplesSelect = [];
     }
 }
-document.getElementById("input_txtNamePeople").addEventListener("keypress", function(event) {
-    if (event.key.toLowerCase() === 'enter') {
-      insertPeople();
+document.getElementById("input_txtNamePeople").addEventListener("keydown", function(event) {
+    if (event.keyCode === 13) {
+      event.preventDefault(); // Questo evita l'azione predefinita del tasto Invio
     }
 });
 
