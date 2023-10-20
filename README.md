@@ -8,7 +8,7 @@ With this project, you can manage the random selection of a list of names for va
 such as deciding who speaks first in a discussion or any other situation where randomness is required. 
 Just provide the list of names, and the page will take care of the rest.
 
-## 🎲 Random-peolple & Win 🐳 White Wale
+## 🎲 Random-peolple & 🐳 Win White Wale
 
 The birth of this solution is a story of inspiration and growth. 
 Originally developed to facilitate discussions during business meetings, 
