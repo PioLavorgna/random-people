@@ -1,4 +1,4 @@
-# Welcome to PioLavorgna’s GitHub page! 🔥
+# Welcome to PioLavorgna’s GitHub page! 🔥 (https://github.com/PioLavorgna/random-people)
 
 [![Linkedin: Pio_Lavorgna](https://img.shields.io/badge/-Pio_Lavorgna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piolavorgna/)](https://www.linkedin.com/in/piolavorgna/)
 [![GitHub Pio_Lavorgna](https://img.shields.io/github/followers/PioLavorgna?label=follow&style=social)](https://github.com/PioLavorgna)
@@ -22,7 +22,7 @@ creature maestose che simboleggiano la forza nascosta in ognuno di noi.
 La storia di queste balene bianche ha fornito l'ispirazione per trasmettere un forte messaggio 
 a coloro che inizialmente erano inesperti: il loro potenziale è tanto vasto quanto l'oceano.
 
-## 🖥️ Come usarlo 
+## 🖥️ Come usarlo (https://github.com/PioLavorgna/random-people)
 [![Link diretto: random-people](https://img.shields.io/badge/-Link_diretto_Random_People-blue?style=flat-square&logo=Netlify&logoColor=white&link=https://random-people-by-pio-lavorgna.netlify.app)](https://random-people-by-pio-lavorgna.netlify.app)
 	
 	- Nella casella Name inserire il nome da aggiungere alla lista
@@ -33,18 +33,18 @@ a coloro che inizialmente erano inesperti: il loro potenziale è tanto vasto qua
 	- Per aggiungere nuovi nomi premere il tasto rosso
 	- Per rimuovere un nome pre sull'icona affianco al nome ( cecstino con la x )
 
-## 🔧 Tech stack:
+## 🔧 Tech stack: (https://github.com/PioLavorgna/random-people)
 	
 	- Bootstrap
 	- Javascript
 	- jquery
 
-## 💚 Dedicato al Team White Wale 🐳
+## 💚 Dedicato al Team White Wale 🐳 (https://github.com/PioLavorgna/random-people)
 
 Un gruppo di individui determinati a esplorare le profondità dell'informatica, 
 superare le sfide e raggiungere traguardi eccezionali. 
 
-## 🐳 Team White Wale 🐳
+## 🐳 Team White Wale 🐳 (https://github.com/PioLavorgna/random-people)
 	
 👩‍💻[![Linkedin: Olimpia_Marfella](https://img.shields.io/badge/-Olimpia_Marfella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olimpia-marfella-428783238/)](https://www.linkedin.com/in/olimpia-marfella-428783238/)
 
