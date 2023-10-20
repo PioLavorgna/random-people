@@ -44,7 +44,10 @@ a coloro che inizialmente erano inesperti: il loro potenziale è tanto vasto qua
 Un gruppo di individui determinati a esplorare le profondità dell'informatica, 
 superare le sfide e raggiungere traguardi eccezionali. 
 
-## Team White Wale
-[![Linkedin: Olimpia_Marfella](https://img.shields.io/badge/-Olimpia_Marfella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olimpia-marfella-428783238/)](https://www.linkedin.com/in/olimpia-marfella-428783238/)
-[![Linkedin: Fabrizio_Ciaccio](https://img.shields.io/badge/-Fabrizio_Ciaccio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabrizio-ciaccio-a83a7a267/)](https://www.linkedin.com/in/fabrizio-ciaccio-a83a7a267/)
-[![Linkedin: Antonio_Lippolis](https://img.shields.io/badge/-Antonio_Lippolis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-lippolis/)](https://www.linkedin.com/in/antonio-lippolis/)
+## 🐳 Team White Wale 🐳
+	
+	👩‍💻	[![Linkedin: Olimpia_Marfella](https://img.shields.io/badge/-Olimpia_Marfella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olimpia-marfella-428783238/)](https://www.linkedin.com/in/olimpia-marfella-428783238/)
+
+	👨‍💻	[![Linkedin: Fabrizio_Ciaccio](https://img.shields.io/badge/-Fabrizio_Ciaccio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabrizio-ciaccio-a83a7a267/)](https://www.linkedin.com/in/fabrizio-ciaccio-a83a7a267/)
+
+	👨‍💻	[![Linkedin: Antonio_Lippolis](https://img.shields.io/badge/-Antonio_Lippolis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-lippolis/)](https://www.linkedin.com/in/antonio-lippolis/)
