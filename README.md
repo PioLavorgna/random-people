@@ -1,7 +1,7 @@
 # Welcome to PioLavorgna’s GitHub page! 🔥
 
-[![Linkedin: Pio Lavorgna](https://img.shields.io/badge/-DeveloperWay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piolavorgna/)](https://www.linkedin.com/in/piolavorgna/)
-[![GitHub Pio Lavorgna](https://img.shields.io/github/followers/PioLavorgna?label=follow&style=social)](https://github.com/PioLavorgna)
+[![Linkedin: Pio_Lavorgna](https://img.shields.io/badge/-Pio_Lavorgna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/piolavorgna/)](https://www.linkedin.com/in/piolavorgna/)
+[![GitHub Pio_Lavorgna](https://img.shields.io/github/followers/PioLavorgna?label=follow&style=social)](https://github.com/PioLavorgna)
 
 ## 🌎 Project  [💻Live Version](https://random-people-by-pio-lavorgna.netlify.app/)
 Con questo progetto potete gestire la selezione casuale di una lista di nomi per vari scopi,
