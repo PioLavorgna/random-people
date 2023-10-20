@@ -4,9 +4,12 @@ class indexClass{
         this.map_peoplesSelect = [];
     }
 }
-function btn_event_enter(){
-    console.log('>>>>>>>>>>>>>>>>>>>>>>>')
-}
+document.getElementById("input_txtNamePeople").addEventListener("keypress", function(event) {
+    if (event.key.toLowerCase() === 'enter') {
+      insertPeople();
+    }
+});
+
 document.getElementById("btn_addPeople").disabled = false;
 
 function createTableCards(){

@@ -16,11 +16,6 @@ function setDisabledBtnDelete(disabledValue, clickCreated) {
     }
 }
 
-// Aggiungi un ascoltatore per l'evento "DOMContentLoaded" per eseguire la funzione quando il documento è pronto
-document.addEventListener("DOMContentLoaded", function() {
-    setDisabledBtnDelete(true, true); // Disabilita i bottoni di eliminazione
-});
-
 var id = null;
 function randomSelect(mapObject) {
     clearInterval(id);
