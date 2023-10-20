@@ -5,9 +5,21 @@ class Objects{
         this.numSelect = 0;
     }
 }
-function stopRanSel(){
-    
-} 
+function setDisabledBtnDelete(disabledValue, clickCreated) {
+    for (let index = 0; index < 12; index++) {
+        if (document.getElementById(`btn_deletePeople${index}`) !== null) {
+            document.getElementById(`btn_deletePeople${index}`).disabled = disabledValue;
+        }
+    }
+    if (this.array_peoplesSelect.length !== 12) {
+        document.getElementById("btn_addPeople").disabled = clickCreated;
+    }
+}
+
+// Aggiungi un ascoltatore per l'evento "DOMContentLoaded" per eseguire la funzione quando il documento è pronto
+document.addEventListener("DOMContentLoaded", function() {
+    setDisabledBtnDelete(true, true); // Disabilita i bottoni di eliminazione
+});
 
 var id = null;
 function randomSelect(mapObject) {
@@ -74,6 +86,7 @@ function insertPeople(){
     document.getElementById('input_txtNamePeople').value = '';
     if( inputName.length === 0 ){
         //error: insert name
+        console.log('>>>>>>>>>>>>>>')
     }else if( inputName.length > 24 ){
         //error: name troppo lungo 24
     }else{

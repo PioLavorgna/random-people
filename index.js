@@ -4,7 +4,11 @@ class indexClass{
         this.map_peoplesSelect = [];
     }
 }
+function btn_event_enter(){
+    console.log('>>>>>>>>>>>>>>>>>>>>>>>')
+}
 document.getElementById("btn_addPeople").disabled = false;
+
 function createTableCards(){
     document.getElementById("btn_startTable").disabled = true;
     document.getElementById("btnStartRandom").disabled = false;
