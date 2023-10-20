@@ -23,7 +23,8 @@ La storia di queste balene bianche ha fornito l'ispirazione per trasmettere un f
 a coloro che inizialmente erano inesperti: il loro potenziale è tanto vasto quanto l'oceano.
 
 ## 🖥️ Come usarlo 
-[![Link diretto](https://api.netlify.com/api/v1/badges/f9292e82-1877-4c26-8fb9-03edf860d398/deploy-status)](https://app.netlify.com/sites/random-people-by-pio-lavorgna/deploys)
+[![Link diretto: random-people](https://img.shields.io/badge/-Random_People-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://app.netlify.com/sites/random-people-by-pio-lavorgna)](https://app.netlify.com/sites/random-people-by-pio-lavorgna/)
+[![Link diretto](https://api.netlify.com/api/v1/badges/f9292e82-1877-4c26-8fb9-03edf860d398/deploy-status)]()
 	
 	- Nella casella Name inserire il nome da aggiungere alla lista
 	- Cliccare il bottone [INSERT] o premere [invio]
