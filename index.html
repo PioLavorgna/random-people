@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+
+        <!-- Bootstrap CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+        
+        <link rel="stylesheet" href="css/styleCss.css">
+        <link rel="icon" href="img/icon/white_wale-_1_.ico"/>
+
+        <!-- LinkedIn -->
+        <meta name="author" content="Pio Lavorgna">
+        <meta name="description" content="Create per selezionare randomicamente i profili junior e assegnarli task cosi da fargli fare diverse esperienze e permetterli di essere più proattivi">
+        <meta name="keywords" content="Full Stack Salesforce Developer | Cisco Networking Academy | Cybersecurity | Apex, Javascript, Python, Rest API">
+        
+        <!-- Aggiungi un collegamento al tuo profilo LinkedIn -->
+        <link rel="author" href="https://www.linkedin.com/in/piolavorgna/">
+        
+        <title>Win White Wale</title>
+      </head>
+    <body class="row container-fluid">
+
+      <div class="container-fluid col-3">
+        <div class="row pt-3">
+          <div class="col">
+            <form id="jsonFile_listPeople" style="background: aliceblue;" class="border border-dark shadow-lg p-3 mb-3 bg-body rounded" name="jsonFile_listPeople" enctype="multipart/form-data" method="post">
+              <fieldset>
+                <div class="form-group">
+                  <h4 class="text-center">
+                    <p class="font-monospace text-uppercase text-muted">Insert People</p>
+                  </h4>
+                  <div class="container-fluid">
+                    <div class="row">
+                      <div class="col-auto align-items-center">
+                        <div class="input-group">
+                          <div class="input-group-prepend">
+                            <div class="input-group-text">
+                              <img src="img/icon/baseline_diversity_2_black_24dp.png" alt="">
+                            </div>
+                          </div>
+                          <input id="input_txtNamePeople" type="text" class="form-control font-monospace text-uppercase" placeholder="name"/>
+                          <button id="btn_addPeople" type='button' class="btn btn-primary font-monospace text-uppercase" onclick='insertPeople();' disabled="false">Insert</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </fieldset>
+            </form>
+          </div>
+        </div>
+        <div class="row pt-3">
+          <div class="col">
+            <form id="jsonFile_listPeople" style="background: aliceblue;" class="border border-dark shadow-lg p-3 mb-3 bg-body rounded" name="jsonFile_listPeople" enctype="multipart/form-data" method="post">
+              <fieldset>
+                <div class="form-group">
+                  <div class=" row text-left">
+                    <p class="font-monospace text-uppercase text-muted">
+                      <span class="font-monospace text-uppercase">People List</span> 
+                      <button id="btn_startTable" type='button' class="p-lg-0 m-md-1 btn btn-success font-monospace text-uppercase float-end" onclick='createTableCards();' title="Create cards" disabled="true">
+                        <img src="img/icon/power_rounded_FILL0_wght400_GRAD0_opsz48.png" alt="">
+                      </button>
+                      <button id="btn_resetTable" type='button' class="p-lg-0 m-md-1 btn btn-danger font-monospace text-uppercase float-end" onclick='resetTable();' title="Reset" disabled="true">
+                        <img src="img/icon/baseline_restart_alt_black_24dp.png" alt="">
+                      </button>
+                    </p>
+                  </div>
+                  <div class="row text-center">
+                    <div class="col">
+                      <div id="list_Row_People"  class="col-12 align-items-center">
+                        <!-- Create list people -->
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </fieldset>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <div class="container-fluid col-6">
+        
+          <div class="row pt-3">
+            <div class="col">
+              <form id="formTableAvatar" style="background: aliceblue;" class="border border-dark shadow-lg p-3 mb-3 bg-body rounded" name="formTableAvatar" enctype="multipart/form-data" method="post">
+                <fieldset>
+                  <div class="form-group">
+                    <h4 class="text-center">
+                      <p class="font-monospace text-uppercase text-muted">Random People</p>
+                    </h4>
+                    <div id="divCardsTable" class="container-fluid">
+                    </div>
+                  </div>
+                </fieldset>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="container-fluid col-3">
+        <div class="row pt-3">
+          <div class="col">
+            <form id="formBtnPlayRandom" style="background: aliceblue;" class="border border-dark shadow-lg p-3 mb-3 bg-body rounded" name="formBtnPlayRandom" enctype="multipart/form-data" method="post">
+              <fieldset>
+                <div class="form-group">
+                  <div class="container-fluid">
+                    <div class="row pt-3">
+                      <div class="col-12">
+                        <div id="" class="text-center">
+                          <input type='button' class="form-control btn btn-outline-success font-monospace text-uppercase" id='btnStartRandom' value='Start select' onclick='startRandomSelect();' disabled="true"/>
+                        </div>
+                      </div>
+                  </div>
+                  <div class="row pt-3">
+                    <div class="col-12">
+                      <div id="" class="text-center">
+                        <input type='button' class="form-control btn btn-outline-danger font-monospace text-uppercase" id='btnStopRandom' value='Stop select' onclick='stopRandomSelect();' disabled="true"/>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </fieldset>
+          </form>
+        </div>
+      </div>
+
+      <script src="js/classes.js" type="text/javascript"></script>
+      <script src="js/controller.js" type="text/javascript"></script>
+      <script src="index.js" type="text/javascript"></script>
+    
+    </body>
+</html>
