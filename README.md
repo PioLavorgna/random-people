@@ -8,7 +8,7 @@ With this project, you can manage the random selection of a list of names for va
 such as deciding who speaks first in a discussion or any other situation where randomness is required. 
 Just provide the list of names, and the page will take care of the rest.
 
-## 🎲 Random-peolple & 🐳 Win White Wale
+## 🎲 Random-peolple 🐳 Win White Wale
 
 The birth of this solution is a story of inspiration and growth. 
 Originally developed to facilitate discussions during business meetings, 
@@ -23,8 +23,8 @@ majestic creatures symbolizing the hidden power within each of us.
 The story of these white whales has provided inspiration 
 to convey a powerful message to those who were initially inexperienced: their potential is as vast as the ocean.
 
-## 🖥️ Come usarlo
-[![Link diretto: random-people](https://img.shields.io/badge/-Link_diretto_Random_People-blue?style=flat-square&logo=Netlify&logoColor=white&link=https://random-people-by-pio-lavorgna.netlify.app)](https://random-people-by-pio-lavorgna.netlify.app)
+## 🖥️ How to use it
+[![Direct link: random-people](https://img.shields.io/badge/-Direct_Link_Random_People-blue?style=flat-square&logo=Netlify&logoColor=white&link=https://random-people-by-pio-lavorgna.netlify.app)](https://random-people-by-pio-lavorgna.netlify.app)
 	
 	- In the "Name" box, enter the name to add to the list
 	- Click the [INSERT] button or press [Enter]
@@ -40,11 +40,11 @@ to convey a powerful message to those who were initially inexperienced: their po
 	- Javascript
 	- jquery
 
-## 💚 Dedicato al Team White Wale 🐳
+## 💚 Dedicated to the White Wale Team 🐳
 
 A group of people determined to explore the depths of computer science, overcome challenges, and achieve exceptional milestones.
 
-## 🐳 Team White Wale 🐳
+## 🐳 White Wale Team🐳
 	
 👩‍💻[![Linkedin: Olimpia_Marfella](https://img.shields.io/badge/-Olimpia_Marfella-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olimpia-marfella-428783238/)](https://www.linkedin.com/in/olimpia-marfella-428783238/)
 
